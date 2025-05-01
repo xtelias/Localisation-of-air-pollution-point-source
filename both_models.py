@@ -30,7 +30,7 @@ HUMIDIFY = 1  # 0 - NO HUMIDIFY; 1 - HUMIDIFY
 # MODEL = 2   # 1 - Gauss 2 - Ermak - no need this here since we use both models at once
 # DRY_AEROSOL = 1
 
-# SECTION 0: Definitions (normally don't modify this section)
+# SECTION 0: Definitions for plotting
 # view
 PLAN_VIEW = 1
 HEIGHT_SLICE = 2
