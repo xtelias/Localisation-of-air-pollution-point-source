@@ -1,1 +1,1 @@
-# Localisation-of-air-pollution-point-source
+# Modelling of air pollutant dispersion for further air localisation problem solving
